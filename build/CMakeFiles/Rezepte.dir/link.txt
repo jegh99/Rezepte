@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Rezepte.dir/sources/application/main.c.o -o ../executables/Rezepte 
