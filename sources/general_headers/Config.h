@@ -3,3 +3,7 @@
 // Author:      J. Gohlke
 // Description: configuration
 //----------------------------------------------------------------------------------------
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#endif
