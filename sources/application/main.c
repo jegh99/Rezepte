@@ -19,6 +19,9 @@
 int main (void)
 {
     printf("Application startet...\r\n");
+    
+    Hauptmenu();
+    //----
 
     CHAR ingredient [50];
 

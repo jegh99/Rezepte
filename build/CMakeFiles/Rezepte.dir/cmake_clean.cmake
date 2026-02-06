@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "../executables/Rezepte"
   "../executables/Rezepte.pdb"
+  "CMakeFiles/Rezepte.dir/sources/application/Menu.c.o"
+  "CMakeFiles/Rezepte.dir/sources/application/Menu.c.o.d"
   "CMakeFiles/Rezepte.dir/sources/application/main.c.o"
   "CMakeFiles/Rezepte.dir/sources/application/main.c.o.d"
 )

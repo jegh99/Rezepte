@@ -33,4 +33,5 @@ CMakeFiles/Rezepte.dir/sources/application/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h /usr/include/string.h \
  /home/jeg/projects/Rezepte/sources/general_headers/Types.h \
- /home/jeg/projects/Rezepte/sources/general_headers/Config.h
+ /home/jeg/projects/Rezepte/sources/general_headers/Config.h \
+ /home/jeg/projects/Rezepte/sources/headers/Menu.h

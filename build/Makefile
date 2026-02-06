@@ -175,6 +175,30 @@ Rezepte/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/build
 .PHONY : Rezepte/fast
 
+sources/application/Menu.o: sources/application/Menu.c.o
+.PHONY : sources/application/Menu.o
+
+# target to build an object file
+sources/application/Menu.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Menu.c.o
+.PHONY : sources/application/Menu.c.o
+
+sources/application/Menu.i: sources/application/Menu.c.i
+.PHONY : sources/application/Menu.i
+
+# target to preprocess a source file
+sources/application/Menu.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Menu.c.i
+.PHONY : sources/application/Menu.c.i
+
+sources/application/Menu.s: sources/application/Menu.c.s
+.PHONY : sources/application/Menu.s
+
+# target to generate assembly for a file
+sources/application/Menu.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Menu.c.s
+.PHONY : sources/application/Menu.c.s
+
 sources/application/main.o: sources/application/main.c.o
 .PHONY : sources/application/main.o
 
@@ -212,6 +236,9 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... Rezepte"
+	@echo "... sources/application/Menu.o"
+	@echo "... sources/application/Menu.i"
+	@echo "... sources/application/Menu.s"
 	@echo "... sources/application/main.o"
 	@echo "... sources/application/main.i"
 	@echo "... sources/application/main.s"
