@@ -1,7 +1,0 @@
-/home/jeg/projects/Rezepte/build/CMakeFiles/Rezepte.dir
-/home/jeg/projects/Rezepte/build/CMakeFiles/edit_cache.dir
-/home/jeg/projects/Rezepte/build/CMakeFiles/rebuild_cache.dir
-/home/jeg/projects/Rezepte/build/CMakeFiles/list_install_components.dir
-/home/jeg/projects/Rezepte/build/CMakeFiles/install.dir
-/home/jeg/projects/Rezepte/build/CMakeFiles/install/local.dir
-/home/jeg/projects/Rezepte/build/CMakeFiles/install/strip.dir
