@@ -18,8 +18,9 @@
 //----------------------------------------------------------------------------------------
 //                                      Defines
 //----------------------------------------------------------------------------------------
-#define MAX_NAME_LENGTH 50
-#define MAX_INGREDIENTS 50
+#define MAX_NAME_LENGTH         50
+#define MAX_INGREDIENTS         50
+#define MAX_FILE_NAME_LENGTH    100
 
 
 
