@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/Rezepte.dir/sources/application/Menu.c.o CMakeFiles/Rezepte.dir/sources/application/main.c.o -o ../executables/Rezepte 
+/usr/bin/cc CMakeFiles/Rezepte.dir/sources/application/Menu.c.o CMakeFiles/Rezepte.dir/sources/application/Recipes.c.o CMakeFiles/Rezepte.dir/sources/application/main.c.o -o ../executables/Rezepte 

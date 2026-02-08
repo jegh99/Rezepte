@@ -25,6 +25,8 @@
 #define INT16   int16_t
 #define INT32   int32_t
 #define INT64   int64_t
+#define FLOAT32 float
+#define FLOAT64 double
 
 #define UINT8   uint8_t
 #define UINT16  uint16_t

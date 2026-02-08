@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/jeg/projects/Rezepte/sources/application/Menu.c" "CMakeFiles/Rezepte.dir/sources/application/Menu.c.o" "gcc" "CMakeFiles/Rezepte.dir/sources/application/Menu.c.o.d"
+  "/home/jeg/projects/Rezepte/sources/application/Recipes.c" "CMakeFiles/Rezepte.dir/sources/application/Recipes.c.o" "gcc" "CMakeFiles/Rezepte.dir/sources/application/Recipes.c.o.d"
   "/home/jeg/projects/Rezepte/sources/application/main.c" "CMakeFiles/Rezepte.dir/sources/application/main.c.o" "gcc" "CMakeFiles/Rezepte.dir/sources/application/main.c.o.d"
   )
 

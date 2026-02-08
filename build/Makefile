@@ -199,6 +199,30 @@ sources/application/Menu.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Menu.c.s
 .PHONY : sources/application/Menu.c.s
 
+sources/application/Recipes.o: sources/application/Recipes.c.o
+.PHONY : sources/application/Recipes.o
+
+# target to build an object file
+sources/application/Recipes.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Recipes.c.o
+.PHONY : sources/application/Recipes.c.o
+
+sources/application/Recipes.i: sources/application/Recipes.c.i
+.PHONY : sources/application/Recipes.i
+
+# target to preprocess a source file
+sources/application/Recipes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Recipes.c.i
+.PHONY : sources/application/Recipes.c.i
+
+sources/application/Recipes.s: sources/application/Recipes.c.s
+.PHONY : sources/application/Recipes.s
+
+# target to generate assembly for a file
+sources/application/Recipes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Rezepte.dir/build.make CMakeFiles/Rezepte.dir/sources/application/Recipes.c.s
+.PHONY : sources/application/Recipes.c.s
+
 sources/application/main.o: sources/application/main.c.o
 .PHONY : sources/application/main.o
 
@@ -239,6 +263,9 @@ help:
 	@echo "... sources/application/Menu.o"
 	@echo "... sources/application/Menu.i"
 	@echo "... sources/application/Menu.s"
+	@echo "... sources/application/Recipes.o"
+	@echo "... sources/application/Recipes.i"
+	@echo "... sources/application/Recipes.s"
 	@echo "... sources/application/main.o"
 	@echo "... sources/application/main.i"
 	@echo "... sources/application/main.s"
