@@ -47,7 +47,8 @@ void Hauptmenu (void)
     // Code:
     printHauptmenu();
     
-    input = getchar();
+    scanf("%c", &input);
+    while (getchar() != '\n');
 
     switch (input)
     {
