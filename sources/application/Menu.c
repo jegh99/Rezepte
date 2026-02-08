@@ -53,7 +53,8 @@ void Hauptmenu (void)
     switch (input)
     {
         case SHOW_RECIPES:  printf("Rezepte anzeigen\r\n");     break;
-        case ADD_RECIPE:    printf("Rezept hinzufügen\r\n");    break;
+        case ADD_RECIPE:    add_Recipe();                       break;
+        case OPEN_RECIPE:   printf("Rezept öffnen\r\n");        break;
         case DELETE_RECIPE: printf("Rezept löschen\r\n");       break;
         default:            printf("Ungültige Eingabe\r\n");    break;
     }

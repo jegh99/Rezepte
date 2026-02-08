@@ -37,12 +37,19 @@ typedef struct
 
 
 
-
-
 typedef struct
 {
     CHAR        name        [MAX_NAME_LENGTH];
     tIngredient ingredients [MAX_INGREDIENTS];
 } tRecipe;
+
+
+
+
+
+//----------------------------------------------------------------------------------------
+//                                      global Prototypes
+//----------------------------------------------------------------------------------------
+void add_Recipe (void);
 
 #endif

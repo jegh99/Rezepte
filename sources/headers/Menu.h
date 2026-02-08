@@ -11,6 +11,8 @@
 //----------------------------------------------------------------------------------------
 #include "Platform.h"
 
+#include "Recipes_data.h"
+
 
 
 
@@ -20,7 +22,8 @@
 //----------------------------------------------------------------------------------------
 #define SHOW_RECIPES     '1'
 #define ADD_RECIPE       '2'
-#define DELETE_RECIPE    '3'
+#define OPEN_RECIPE      '3'
+#define DELETE_RECIPE    '4'
 
 
 
